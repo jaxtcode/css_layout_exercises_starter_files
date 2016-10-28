@@ -12,6 +12,7 @@ main {
 
 .top, .bottom {
   width: 800px;
+  border: 1px solid black;
   display: inline-block;
   font-size: 0;
 }
