@@ -1,0 +1,48 @@
+main {
+  font-size: 0;
+}
+
+.box-parent {
+  padding: 90px;
+  height: 500px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top, .bottom {
+  width: 800px;
+  display: inline-block;
+  font-size: 0;
+}
+
+.top-green {
+  width: 50%;
+  height: 200px;
+  background-color: green;
+}
+
+.top-blue {
+  width: 50%;
+  height: 200px;
+  background-color: blue;
+}
+
+.bottom-grey {
+  width: 33.3%;
+  height: 300px;
+  background-color: grey;
+}
+
+.bottom-black {
+  width: 33.3%;
+  height: 300px;
+  background-color: black;
+}
+
+.bottom-orange {
+  width: 33.3%;
+  height: 300px;
+  background-color: orange;
+}
+
